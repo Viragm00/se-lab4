@@ -1,0 +1,4 @@
+# Create a ship with only one torpedo stores that never 50% fail
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store with a 50% chanece
+TORPEDO,ALL     # try firing the rest
