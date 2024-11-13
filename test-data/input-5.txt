@@ -1,0 +1,4 @@
+# Create a ship with both stores empty
+GT4500,0,0,0,0
+# Attempt to fire from both stores (ALL mode)
+TORPEDO,ALL  # should fail as both stores are empty

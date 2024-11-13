@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (primary store fired)
+SUCCESS  # <- TORPEDO (secondary store fired)
+SUCCESS  # <- TORPEDO (secondary store fired again as primary is empty)
