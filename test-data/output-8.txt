@@ -1,1 +1,0 @@
-SUCCESS  # <- Help text listing available commands

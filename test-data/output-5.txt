@@ -1,2 +1,2 @@
 SUCCESS  # <- GT4500
-FAILURE  # <- TORPEDO (both stores are empty)
+FAIL  # <- TORPEDO 

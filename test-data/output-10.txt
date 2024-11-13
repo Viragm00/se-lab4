@@ -1,4 +1,4 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO (primary store fired)
 SUCCESS  # <- TORPEDO (secondary store fired)
-FAILURE  # <- TORPEDO (no torpedoes left)
+FAIL  # <- TORPEDO (no torpedoes left)
