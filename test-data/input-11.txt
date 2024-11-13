@@ -1,0 +1,2 @@
+# Attempt to fire torpedo without initializing ship
+TORPEDO,SINGLE  # should fail as no ship is initialized

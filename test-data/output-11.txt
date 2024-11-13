@@ -1,0 +1,1 @@
+FAILURE  # <- TORPEDO (no ship initialized)

@@ -1,0 +1,4 @@
+# Create a ship with only the secondary store stocked
+GT4500,0,0,10,0
+# Fire from the secondary store (SINGLE mode)
+TORPEDO,SINGLE  # should fire from the secondary store

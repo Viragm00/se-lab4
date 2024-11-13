@@ -1,3 +1,4 @@
-# Create a ship with stocked torpedo stores that never fail
-GT4500,10,0,0,0
-TORPEDO,SINGLE  # should have fired from the primary store
+# Create a ship where primary store always fails
+GT4500,10,1.0,10,0
+# Attempt to fire from both stores (ALL mode)
+TORPEDO,ALL  # should fire only from secondary store as primary fails
